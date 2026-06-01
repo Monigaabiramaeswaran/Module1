@@ -44,10 +44,11 @@ else:
     print("ODD")
 ```
 
-Output
+## Output
 
 
 <img width="663" height="364" alt="image" src="https://github.com/user-attachments/assets/e1091195-bdc5-43ab-82a4-7b68143156bd" />
 
-Result
+## Result
+
 Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
